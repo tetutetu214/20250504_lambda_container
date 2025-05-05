@@ -1,1 +1,0 @@
-{"statusCode": 200, "body": "{\"greeting\": \"Hello from Lambda Container!\", \"event\": {\"key\": \"value\", \"message\": \"Lambda Container\"}, \"requested_at\": \"2025-05-05T08:20:55.071375+09:00\", \"display_time\": \"2025-05-05 08:20:55 JST\", \"request_id\": \"8f192969-b9b3-4679-abb6-0c3cf307dd92\"}"}
